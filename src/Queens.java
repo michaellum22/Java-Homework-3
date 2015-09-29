@@ -1,7 +1,6 @@
 /*I had help from websites: http://introcs.cs.princeton.edu/java/23recursion/Queens.java.html & http://smahesh.com/blog/2013/03/29/eight-queens-puzzle/
 //Originally I tried using a multidimensional array, but I found out that it would not work with backtracking, so I switched to a single array to store 
 the columns instead. As you suggested in the feedback I got, I looked up a tutorial for backtracking and had help from https://www.youtube.com/watch?v=ZM7RGa8W2KA
-import java.util.Scanner;
 */
 import java.util.Scanner;
 public class Queens {
